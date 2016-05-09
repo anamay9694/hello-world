@@ -1,2 +1,1 @@
-# hello-world program1
-Hi everyone
+# hello-world
